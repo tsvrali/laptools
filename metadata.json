@@ -1,0 +1,6 @@
+{
+  "name": "LapTools - Free Online Calculators & Unit Converters",
+  "description": "Free, accurate online calculators for US mortgages, taxes, freelance rates, math formulas, currency conversions, and measurements. Instant results with formulas and worked examples.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
